@@ -1,3 +1,11 @@
+**C# Uygulama Notları** (01.03.2019)   
+
+Dersimizin C# kısmında Prof. Dr. Tuncay Aydoğan tarafından hazırlanan Uygulama Notlarını kullanacağız.  
+Fotokopiciden alabilirsiniz.
+
+---   
+
+
 **Ödev1** (19.02.2019)   
 
 Ödev 1'e https://github.com/asenturk/eem112/tree/master/odevler bağlantısından ulaşabilirsiniz.
