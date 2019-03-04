@@ -41,7 +41,7 @@ static void Main(string[] args)
 }
 ```
 
-
+---
 
 ```csharp
 static void Main(string[] args)
@@ -84,6 +84,7 @@ static void Main(string[] args)
     } while (d != -1);
 }
 ```
+---
 
 ```csharp
 static void Main(string[] args)
@@ -117,6 +118,8 @@ static void Main(string[] args)
 }
 ```
 
+---
+
 ```csharp
 static void Main(string[] args)
 {
@@ -136,6 +139,7 @@ static void Main(string[] args)
 }
 ```
 
+---
 
 ```csharp
 // Dizi ile ilgili örnek eklenecek
