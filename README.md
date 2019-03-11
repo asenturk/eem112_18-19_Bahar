@@ -11,7 +11,6 @@ Güncelleme: Gönderme tarihi uzatılmıştır.
 Ödevlerinizi aşağıdaki bağlantıyı kullanarak gönderebilirsiniz.   
 https://goo.gl/forms/DwHXEm5APcJmfDY53
 
-Ödev göndermek için son gün 10.03.2019 Pazardır.
 
 Formata uygun gönderilmeyen ödevler değerlendirilmeyecektir.
 
