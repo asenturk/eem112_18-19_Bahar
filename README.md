@@ -1,4 +1,7 @@
-**Ödev 2** (07.03.2019)   
+**Ödev 2** (07.03.2019)
+Güncelleme: Gönderme tarihi uzatılmıştır.  
+Ödev göndermek için son gün 14.03.2019 Perşembe.  
+  
 Ödev 2'ye https://github.com/asenturk/eem112/tree/master/odevler bağlantısından ulaşabilirsiniz.
 
 Ödev formatını ve örnek ödevi dikkatli incelemeniz gerekmektedir.
