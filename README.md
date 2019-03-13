@@ -1,3 +1,15 @@
+**Ödev 3** (14.03.2019)   
+Ödev 3'e https://github.com/asenturk/eem112/tree/master/odevler bağlantısından ulaşabilirsiniz.
+
+Ödev göndermek için son gün 21.03.2019 Perşembedir.
+
+Ödevlerinizi aşağıdaki bağlantıyı kullanarak gönderebilirsiniz.   
+https://goo.gl/forms/DwHXEm5APcJmfDY53
+
+Formata uygun gönderilmeyen ödevler değerlendirilmeyecektir.
+
+---   
+
 **Ödev 2** (07.03.2019)
 Güncelleme: Gönderme tarihi uzatılmıştır.  
 Ödev göndermek için son gün 16.03.2019 Cumartesidir.
