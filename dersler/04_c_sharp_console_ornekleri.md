@@ -140,11 +140,80 @@ static void Main(string[] args)
 ```
 
 ---
+Diziye klavyeden veri girişi, Dizinin elemanlarının toplamı:
 
 ```csharp
-// Dizi ile ilgili örnek eklenecek
+static void Main(string[] args)
+{
+    //double[] sayilar = new double[5]{2,4,6,8,10};
+double[] sayilar = new double[5];
+int i;
+double toplam = 0;
+for (i = 0; i < 5; i++)
+{
+	Console.WriteLine((i + 1) + ". sayıyı giriniz: ");
+	sayilar[i] = Convert.ToDouble(Console.ReadLine());
+}
+
+for(i=0;i<5;i++)
+	toplam+=sayilar[i];
+
+Console.WriteLine("toplam: " + toplam);
+}
 ```
 
+---
+
+C# ile fonksiyon
+
 ```csharp
-//metodlarla (fonksiyon) ilgili örnek eklenecek. 
+class Program
+    {
+        static int r1, r2, r3;
+
+        static void direnc_gir()
+        {
+            Console.WriteLine("1. direnç: ");
+            r1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("2. direnç: ");
+            r2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("3. direnç: ");
+            r3 = Convert.ToInt32(Console.ReadLine());
+        }
+        static double seri(double d1, double d2, double d3)
+        {
+            return d1 + d2 + d3;
+        }
+
+        static double paralel(double d1, double d2, double d3)
+        {
+            return 1/(1/d1 + 1/d2 + 1/d3);
+        }
+
+        static void menu()
+        {
+            char tur;
+            do
+            {
+                Console.WriteLine("Bağlantı türünü giriniz (S/P): ");
+                tur = Console.ReadKey().KeyChar;
+            } while (!(tur == 'S' || tur == 'P'));
+
+            if (tur == 'S')
+            {
+                Console.WriteLine("Eşdeğer direnç: "+ seri(r1, r2, r3));
+            }
+            else
+            {
+                Console.WriteLine("Eşdeğer direnç: " + paralel(r1, r2, r3));
+            }
+        }
+
+        static void Main(string[] args)
+        {
+            direnc_gir();
+            menu();
+        }
+    }
+
 ```
