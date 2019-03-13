@@ -1,6 +1,13 @@
 **Ödev 2** (07.03.2019)
 Güncelleme: Gönderme tarihi uzatılmıştır.  
-Ödev göndermek için son gün 14.03.2019 Perşembe.  
+Ödev göndermek için son gün 16.03.2019 Cumartesidir.
+
+Bir arrayı sıralamak için aşağıdaki gibi Array.Sort fonksiyonunu kullanabilirsiniz.
+```csharp
+	int[] arr = new int[] {1, 9, 6, 7, 5, 9}; 
+	Array.Sort(arr); 
+```
+  
   
 Ödev 2'ye https://github.com/asenturk/eem112/tree/master/odevler bağlantısından ulaşabilirsiniz.
 
