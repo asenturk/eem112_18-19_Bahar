@@ -1,3 +1,10 @@
+**Arasınav Notlar** (08.04.2019)   
+
+Notlarınıza [Sınavlar](./sinavlar) klasöründen ulaşabilirsiniz.    
+Kağıtlarınızı kontrol etmek için son tarih 15.04.2019 Pazartesidir.
+
+
+---   
 **Ödev 3** (14.03.2019)   
 Ödev 3'e https://github.com/asenturk/eem112/tree/master/odevler bağlantısından ulaşabilirsiniz.
 
