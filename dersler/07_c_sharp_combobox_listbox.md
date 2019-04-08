@@ -7,7 +7,7 @@ aşağıda tasarımda form elemanlarının üzerine/yakınına kırmızı ile ya
 *Tasarım*   
 
 
-![](img/uyg5_form.jpg)
+![](img/uyg5_form.gif)
 
 
 
