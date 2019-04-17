@@ -1,3 +1,16 @@
+**Ödev 4** (18.04.2019)   
+
+Ödev 4'e [Ödevler](./odevler) klasöründen ulaşabilirsiniz.   
+
+Ödev 4'ü göndermek için son tarih 25.04.2019 Perşembedir.
+
+Ödevlerinizi aşağıdaki bağlantıyı kullanarak gönderebilirsiniz.   
+https://goo.gl/forms/DwHXEm5APcJmfDY53
+
+---   
+
+
+
 **Arasınav Notlar** (08.04.2019)   
 
 Notlarınıza [Sınavlar](./sinavlar) klasöründen ulaşabilirsiniz.    
