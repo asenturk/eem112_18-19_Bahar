@@ -1,3 +1,12 @@
+**Konuların Bitmesi** (16.05.2019)   
+Ders konuları 1. öğretim ve 2. öğretimde bitmiştir. Kalan derslerde Uygulama Notları kitapçığınında son kısımlarında bulunan uygulamalar yapılacak, yeni konu işlenmeyecektir.
+
+Uygulama kitapçığındaki kodlar bire bir anlatıldığında [Dersler](./dersler/) klasörüne eklenmemiştir. Farklı örnekler yapmışsak veya kitapçıktaki örnekleri değiştirerek uygulamışsak [Dersler](./dersler/) klasörüne eklenmiştir.
+
+
+---   
+
+
 **Ödev 4** (18.04.2019)   
 
 Ödev 4'e [Ödevler](./odevler) klasöründen ulaşabilirsiniz.   
