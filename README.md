@@ -1,3 +1,12 @@
+**Programlama Çalışma Soruları** (20.05.2019)   
+
+[Çalışma Soruları](./calisma_sorulari/) kalsörüne Final ve Bütünleme sınavına yönelik çalışma soruları eklenmiştir. İlerleyen zamanlardan başka çalışma/programlama soruları eklenecektir.
+
+
+
+---
+
+
 **Konuların Bitmesi** (16.05.2019)   
 Ders konuları 1. öğretim ve 2. öğretimde bitmiştir. Kalan derslerde Uygulama Notları kitapçığınında son kısımlarında bulunan uygulamalar yapılacak, yeni konu işlenmeyecektir.
 
