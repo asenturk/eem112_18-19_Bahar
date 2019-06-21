@@ -1,3 +1,9 @@
+**Final Sınavı Notlar** (21.06.2019)   
+Notlarınıza [Sınavlar](./sinavlar) klasöründen ulaşabilirsiniz. 
+Kağıtlarınızı kontrol etmek için son tarih 24.06.2019 Pazartesidir.
+
+
+
 **Programlama Çalışma Soruları** (20.05.2019)   
 
 [Çalışma Soruları](./calisma_sorulari/) kalsörüne Final ve Bütünleme sınavına yönelik çalışma soruları eklenmiştir. İlerleyen zamanlardan başka çalışma/programlama soruları eklenecektir.
