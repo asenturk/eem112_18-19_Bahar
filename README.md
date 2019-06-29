@@ -1,3 +1,11 @@
+**Bütünleme Sınavı** (29.06.2019)   
+Bütünleme sınav kağıdının ön sayfasında 5 arka sayfasında 1 tane olmak üzere toplam 6 soru vardır.   
+Ön sayfadaki soruların cevapları kısadır. Arka sayfadaki soru ise parçalara bölünmüş uzun bir sorudur.   
+Süre 60 dakikadır. 
+Bütünleme sınavının zorluğu final sınavı ile benzerdir. 
+
+
+
 **Final Sınavı Notlar** (21.06.2019)   
 Notlarınıza [Sınavlar](./sinavlar) klasöründen ulaşabilirsiniz. 
 Kağıtlarınızı kontrol etmek için son tarih 24.06.2019 Pazartesidir.
