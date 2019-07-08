@@ -1,3 +1,11 @@
+**Bütünleme Sınav Notları** (08.07.2019)   
+
+Notlarınıza [Sınavlar](./sinavlar) klasöründen ulaşabilirsiniz. 
+Kağıtlarınızı kontrol etmek için son tarih 09.07.2019 Salıdır. 
+
+---
+
+
 **Bütünleme Sınavı** (29.06.2019)   
 Bütünleme sınav kağıdının ön sayfasında 5 arka sayfasında 1 tane olmak üzere toplam 6 soru vardır.   
 Ön sayfadaki soruların cevapları kısadır. Arka sayfadaki soru ise parçalara bölünmüş uzun bir sorudur.   
